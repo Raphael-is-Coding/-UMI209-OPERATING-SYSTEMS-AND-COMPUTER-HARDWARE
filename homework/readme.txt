@@ -1,6 +1,6 @@
 📁 Repository Structure
 1. Homework File
-finalfinalfinal.pdf - Contains the complete project description, questions, explanations, code implementations, and test results.
+homework-file.pdf- Contains the complete project description, questions, explanations, code implementations, and test results.
 
 2. Bitmap & Linked-List Allocation
 This section contains C implementations for disk block allocation methods:
@@ -39,4 +39,5 @@ Detailed Analysis - Each experiment includes explanations and insights
 
 How to run:
 Execute the Python file using any Python interpreter (Python 3.6+ recommended). The program will display a menu where you can select which experiment to run or run all experiments sequentially.
+
 
